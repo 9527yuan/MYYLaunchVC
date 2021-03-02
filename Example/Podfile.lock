@@ -1,0 +1,31 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - Masonry (1.1.0)
+  - MYYLaunchVC (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - Masonry
+  - MYYLaunchVC (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+    - Masonry
+
+EXTERNAL SOURCES:
+  MYYLaunchVC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MYYLaunchVC: 5c3e933cc4bc4b811af6174507fc92a44ce18654
+
+PODFILE CHECKSUM: 96769bfd9a515feb0cf31d715d14ad51879dd65c
+
+COCOAPODS: 1.10.1

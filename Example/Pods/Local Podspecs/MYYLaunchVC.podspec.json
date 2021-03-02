@@ -1,0 +1,22 @@
+{
+  "name": "MYYLaunchVC",
+  "version": "0.1.0",
+  "summary": "A short description of MYYLaunchVC.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/孟园园/MYYLaunchVC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "孟园园": "ios_myy@163.com"
+  },
+  "source": {
+    "git": "https://github.com/孟园园/MYYLaunchVC.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MYYLaunchVC/Classes/**/*"
+}

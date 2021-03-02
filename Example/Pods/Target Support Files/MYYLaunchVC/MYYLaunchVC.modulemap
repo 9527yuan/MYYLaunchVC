@@ -1,0 +1,6 @@
+framework module MYYLaunchVC {
+  umbrella header "MYYLaunchVC-umbrella.h"
+
+  export *
+  module * { export * }
+}
